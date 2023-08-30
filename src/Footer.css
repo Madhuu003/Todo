@@ -1,0 +1,7 @@
+.foot{
+    background-color: aqua;
+    width:100%;
+    height:5em;
+    display:grid;
+    place-content: center;
+}

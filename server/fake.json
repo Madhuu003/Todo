@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "id": 3,
+      "checked": false,
+      "list": "games"
+    },
+    {
+      "id": 4,
+      "checked": false,
+      "list": "array"
+    },
+    {
+      "id": 5,
+      "checked": false,
+      "list": "array"
+    },
+    {
+      "id": 6,
+      "checked": false,
+      "list": "play games"
+    },
+    {
+      "id": 1,
+      "checked": false,
+      "list": "sdfc"
+    }
+  ]
+}

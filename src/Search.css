@@ -1,0 +1,20 @@
+
+.searchitem{
+    width:100%;
+    height:50%;
+    display: flex;
+    justify-content: center;
+}
+.searchitem input{
+    
+    padding:20px;
+    margin-top:10px;
+    width:300px;
+    border-radius: 8px;
+    font-size: 25px;
+}
+.searchitem label{
+    margin-right:10px;
+    margin-left:-85px;
+    font-size: 1.5em;
+}

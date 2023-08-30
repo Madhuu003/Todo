@@ -1,0 +1,24 @@
+.additem{
+    width:100%;
+    height:50%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.additem input{
+    
+    padding:20px;
+    margin-top:10px;
+    width:300px;
+    border-radius: 8px;
+    font-size: 25px;
+}
+.additem label{
+    margin-right:10px;
+    font-size: 1.5em;
+}
+.additem button:hover {
+        background-color: red;
+        color:azure
+}
